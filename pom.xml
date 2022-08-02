@@ -30,7 +30,7 @@
   </parent>
 
   <artifactId>tomcat-ldap-encrypted</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
 
   <scm>
     <connection>scm:git:git@github.com:tomitribe/tomcat-ldap-encrypted.git</connection>
